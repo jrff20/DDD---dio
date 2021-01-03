@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZNp3jH/OBKtHoYzUNHDgkjSJYWT5JdUVvij5TdKlWhUPT9tpTwv6x3jLHXpenab2d8QYTJSD/cxVNTRRU46Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anonb\\Desktop\\b808a33f-71ee-47de-91a3-be34b9637cf6\\Infra.Shared\\Infra.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anonb\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
