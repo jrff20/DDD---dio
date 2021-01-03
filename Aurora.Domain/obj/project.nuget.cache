@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pyURbUFtPcH6cEsQlupcRdCVb54qetU/slFbiF7CNpKGU0JtZer5HuFfK34UAJPAthmprUHQBKlDhGya2G7FIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anonb\\Desktop\\b808a33f-71ee-47de-91a3-be34b9637cf6\\Aurora.Domain\\Aurora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anonb\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
